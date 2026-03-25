@@ -2,6 +2,8 @@
 
 This is a mock demo showcasing how Crustdata APIs could power an AI sales outreach application.
 
+![Demo GIF](videos/crustdata-ezgif.com-optimize.gif)
+
 ## Purpose
 The tool aims to generate tailored outreach messages for prospective clients by enriching basic LinkedIn profiles with detailed professional data and recent social posts.
 
